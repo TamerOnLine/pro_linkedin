@@ -1,0 +1,5 @@
+# Add your dependencies here
+selenium
+webdriver-manager
+pyperclip
+beautifulsoup4
